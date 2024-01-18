@@ -18,14 +18,14 @@
 
 -  Результати виконання завдання 1;
 
-![alt text](https://i.imgur.com/aO544JC.png)
+![alt text](https://imgur.com/a/UkLnl1V)
             
 
-![alt text](https://i.imgur.com/aO544JC.png)
+![alt text](https://imgur.com/a/UkLnl1V)
 
 Функція в класі яка рахує кількість букв в імені 
 
-![alt text](https://i.imgur.com/TeqR9hF.png)
+![alt text](https://imgur.com/a/8vWddc3)
 
 Було створенно 3 імя але одни з них None використовується імя "Taras", оскільки ви викликаєте метод anonymous_user(), який створює обєкт із імям "Taras". Таким чином, кількість імен у списку і кількість створених обєктів буде різною.
 ### Висновок: 
